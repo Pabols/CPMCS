@@ -10,7 +10,7 @@ if(isset($_POST['rfid'])) {
 <html lang="en">
 
 <head>
-    <title>NVSU COVID SCREENING AND MONITORING SYSTEM</title>
+    <title>HEALTH AND SAFETY PROTOCOL SREENING, MONITORING AND CONTACT TRACING SYSTEM</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -36,7 +36,7 @@ if(isset($_POST['rfid'])) {
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-md-12 text-center mb-3">
-                    <h2 class="heading-section">NVSU COVID SCREENING AND MONITORING SYSTEM</h2>
+                    <h2 class="heading-section">HEALTH AND SAFETY PROTOCOL SREENING, MONITORING AND CONTACT TRACING SYSTEM</h2>
                 </div>
             </div>
             <div class="row justify-content-center">

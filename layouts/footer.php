@@ -9,7 +9,7 @@
 
 				<div class="navbar-collapse collapse" id="navbar-footer">
 					<span class="navbar-text">
-						&copy; <?=date('Y')?>. <a href="#">NVSU Covid Screening and Monitoring System</a></a>
+						&copy; <?=date('Y')?>. <a href="#">HEALTH AND SAFETY PROTOCOL SREENING, MONITORING AND CONTACT TRACING SYSTEM</a></a>
 					</span>
 				</div>
 			</div>
